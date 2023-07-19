@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>CM4MjUxMTc2_1163A95_sputnik-8251176-preview_04e2d0c5abf75392b9cfa7353d56ec90.jpg</filename>
+	<path>/my-project-name/CM4MjUxMTc2_1163A95_sputnik-8251176-preview_04e2d0c5abf75392b9cfa7353d56ec90.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>930</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>butterfly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>461</ymin>
+			<xmax>968</xmax>
+			<ymax>707</ymax>
+		</bndbox>
+	</object>
+</annotation>

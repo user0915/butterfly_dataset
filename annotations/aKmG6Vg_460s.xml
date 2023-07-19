@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>aKmG6Vg_460s.jpg</filename>
+	<path>/my-project-name/aKmG6Vg_460s.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>305</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>butterfly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>68</ymin>
+			<xmax>353</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>
